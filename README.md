@@ -42,29 +42,10 @@ graph TD
   - langchain
   - unstructured
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd rag-project
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Set up your Anthropic API key:
-```python
-import os
-os.environ["ANTHROPIC_API_KEY"] = "your-api-key"
-```
-
 ## Usage
 
-1. Place your PDF documents in the designated directory
-2. Run the notebook sections sequentially
+1. Place your PDF documents in the designated directory /articles
+2. Run the notebook sections sequentially. (Notebook created using Google Colab)
 3. Use the `ask_question()` function to query your documents:
 
 ```python
