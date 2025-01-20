@@ -106,10 +106,6 @@ The system demonstrates efficient processing capabilities:
 
 Feel free to open issues or submit pull requests with improvements.
 
-## License
-
-[Your chosen license]
-
 ## Acknowledgments
 
 - Anthropic for the Claude API
